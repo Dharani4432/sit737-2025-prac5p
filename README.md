@@ -33,6 +33,7 @@ docker-compose.yml updated with health checks.
 ### 8. Docker Image Pushed to Registry
 
 docker tag docker-node-app dharanireddy/docker-node-app
+
 docker push dharanireddy/docker-node-app
 
 Repository Link:
